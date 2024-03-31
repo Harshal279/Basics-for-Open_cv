@@ -1,2 +1,7 @@
 # Basics-for-Open_cv
-The "Basics for OpenCV" tutorial is designed to provide beginners with a solid foundation in using OpenCV (Open Source Computer Vision Library), one of the most popular libraries for computer vision and image processing tasks in Python. This tutorial covers fundamental concepts and techniques necessary for working with images and videos using OpenCV.
+Introduction to OpenCV
+OpenCV is an open-source computer vision and machine learning software library. It provides a wide range of functionalities for tasks such as image and video manipulation, object detection, face recognition, and more. OpenCV is written in C++ and has bindings for Python, making it accessible to a broad audience.
+
+Installation
+Before starting with OpenCV, you need to install it. You can install OpenCV using pip, the Python package manager. Here's how you can install it:  
+<H3> pip install opencv-python <H3>
