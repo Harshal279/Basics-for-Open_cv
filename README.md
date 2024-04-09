@@ -6,4 +6,4 @@ OpenCV is an open-source computer vision and machine learning software library. 
 Before starting with OpenCV, you need to install it. You can install OpenCV using pip, the Python package manager. Here's how you can install it:  <H3> pip install opencv-python 
 <H1>NOTE!!! while using collab </H1>
 Enter : from google.colab.patches import cv2_imshow
-
+in place of cv2.imshow ==> cv2_imshow(argument)
