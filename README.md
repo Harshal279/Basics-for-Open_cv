@@ -18,5 +18,5 @@ in place of cv2.imshow ==> cv2_imshow(argument)
         <li>Image Transforation</li>
         <li>Color Channel</li>
         <li>Blurring Image</li>
-        <li>#BITWISE Operations</li>
+        <li>BITWISE Operations</li>
 </ol>
