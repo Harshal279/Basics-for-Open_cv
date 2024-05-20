@@ -19,4 +19,6 @@ in place of cv2.imshow ==> cv2_imshow(argument)
         <li>Color Channel</li>
         <li>Blurring Image</li>
         <li>BITWISE Operations</li>
+        <li>Masking Image</li>
+        <li>Histogram_calculation</li>
 </ol>
