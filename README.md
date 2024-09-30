@@ -1,4 +1,4 @@
-<h1 align="center">📸 OpenCV Essentials: Your Gateway to Computer Vision 📸</h1>
+<h1 align="center">📸 OpenCV Fundamentals 📸</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenCV%20Version-4.5.3-brightgreen" alt="OpenCV Version Badge">
